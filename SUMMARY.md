@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [Gitbook setup](gitbook-setup.md)
-
+* [Gitbook](gitbook.md)
+    * [Gitbook setup](gitbook-setup.md)
