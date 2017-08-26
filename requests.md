@@ -22,13 +22,13 @@ u'{"type":"User"...'
 >>> r.json()
 {u'private_gists': 419, u'total_private_repos': 77, ...}
 ```
-## include Requests module?
+## Include Requests module
 
 ```
 import requests
 ```
 
-## HTTP Commands for the Internet Transfer Control
+## HTTP commands for the Internet transfer control
 
 |HTTP Command | Description|
 |-------------|------------|
