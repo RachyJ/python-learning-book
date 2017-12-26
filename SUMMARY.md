@@ -6,3 +6,4 @@
     * [Github integration](integrate-github.md)
 * [Python](python.md)
     * [requests module](requests.md)
+* [Python for data analysis](python-data-analysis.md)
