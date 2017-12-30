@@ -8,4 +8,4 @@
 
  Note: You need to run this command as root/administrator, otherwise, you will get security error.
 
-* After installing, try tryping 'gitbook' in the terminal and you should see the available commands.
+* After installing, try typing 'gitbook' in the terminal and you should see the available commands.
